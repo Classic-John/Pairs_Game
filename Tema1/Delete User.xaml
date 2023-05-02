@@ -1,0 +1,14 @@
+﻿<Window x:Class="Tema1.Delete_User"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tema1"
+        mc:Ignorable="d"
+        Title="Delete_User" Height="450" Width="800">
+    <Grid>
+        <Label Name="Label" Content="Delete a user from existence" Margin="46,10,400,359" FontSize="24"></Label>
+        <TextBox Name="DeleteUserBox" Margin="46,75,452,309" />
+        <Button Name="Sending" Content="Send" Margin="70,158,517,217" FontSize="20" Click="Sending_Click"> </Button>
+    </Grid>
+</Window>

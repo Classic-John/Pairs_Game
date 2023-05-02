@@ -1,0 +1,17 @@
+﻿<Window x:Class="Tema1.theGame"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tema1"
+        mc:Ignorable="d"
+        Title="theGame" Height="450" Width="800">
+    <Grid>
+        <Button Name="New_Game" Content="New Game" Margin="47,341,638,34" Click="New_Game_Click" FontSize="20"> </Button>
+        <Button Name="Open_Game" Content="Open Game" Margin="196,341,483,34" FontSize="20" Click="Open_Game_Click"> </Button>
+        <Button Name="Save_Game" Content="Save Game" Margin="341,341,341,34" FontSize="20" Click="Save_Game_Click"> </Button>
+        <Button Name="Statistics" Content="Statistics" Margin="477,341,206,34" FontSize="20" Click="Statistics_Click"> </Button>
+        <Button Name="Exit" Content="Exit" Margin="613,341,52,34" FontSize="20" Click="Exit_Click"> </Button>
+        <Button Name="About" Content="About" Margin="22,74,581,272" FontSize="20" Click="About_Click"> </Button>
+    </Grid>
+</Window>

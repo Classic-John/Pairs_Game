@@ -1,0 +1,12 @@
+﻿<Window x:Class="Tema1.NewUserWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="New user" Height="273" Width="429">
+    <Grid>
+        <Label Content="Enter a new account name:" Margin="10"/>
+        <Image Name="NewUserImage" Margin="257,23,45,128" Stretch="Fill"/>
+        <TextBox Name="NewAccountNameTextBox" Margin="10,30,197,170"/>
+        <Button Name="AddAccountButton" Content="Add" Margin="18,129,275,41" Click="AddAccountButton_Click"/>
+        <Button Name="ChangePicture" Content="Random" Margin="275,150,63,62" Click="ChangePicture_Click"></Button>
+    </Grid>
+</Window>

@@ -1,0 +1,26 @@
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\bin\Debug\Tema1.exe.config
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\bin\Debug\Tema1.exe
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\bin\Debug\Tema1.pdb
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\Tema1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\Tema1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\Tema1_MarkupCompile.cache
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\Tema1_MarkupCompile.lref
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\Tema1.g.resources
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\Tema1.Properties.Resources.resources
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\Tema1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\Tema1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\Tema1.exe
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\Tema1.pdb
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\New User.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\New User.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\Delete User.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\Delete User.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\Statistics.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\theGame.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\Statistics.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\theGame.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\Game.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema1\Tema1\obj\Debug\Game.g.cs
